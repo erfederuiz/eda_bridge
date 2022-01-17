@@ -61,7 +61,11 @@ Esta es la arquitectura física de la aplicación desarrollada.
 |Datos Madrid capital     |inmd_df.csv    |inmd_code.py  |inmd_app.py      |
 
 ## Ejecución
-Descargar el código y ejecutar:
+Descargar el código 
+
+Instalar los módulos Python mediante el archivo Requirements.txt
+
+Ejecutar en el directorio src:
 ```
 stremlit run index.py
 ```
