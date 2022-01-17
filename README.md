@@ -60,4 +60,8 @@ Esta es la arquitectura física de la aplicación desarrollada.
 |Datos Comunidad de Madrid|incommd_df.csv |commd_code.py |commd_app.py     |
 |Datos Madrid capital     |inmd_df.csv    |inmd_code.py  |inmd_app.py      |
 
-
+## Ejecución
+Descargar el código y ejecutar:
+```
+stremlit run index.py
+```
